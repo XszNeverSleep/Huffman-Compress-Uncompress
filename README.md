@@ -20,3 +20,5 @@ k<sub>0</sub> * 256<sup>0</sup> + k<sub>1</sub> * 256<sup>1</sup> + .... + k<sub
 接下来计算压缩后文件的bits数
 再通过bits数和哈夫曼树还原出原本的文件
 
+## 使用方法
+运行HuffmanMain
